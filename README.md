@@ -28,8 +28,8 @@ Please submit completed homework assignments by pushing them to your homework re
 
 HW | Topics | Dataset | Assigned | Due
 --- | --- | --- | --- | ---
-1 | Data exploration | titanic | 3/11 | 3/16
+1 | Data Exploration | titanic | 3/11 | 3/16
 2 | KNN & Cross Validation | iris | 3/18 | 3/25
 FP1 | Elevator Pitch |  | 3/23 | 4/1
-3 | Decision Trees | bank | 3/28 (opt) | TBD
+3 | Decision Trees | bank | 3/28 (as optional) | TBD
 4 | Midterm |  | 4/8 | 4/15
