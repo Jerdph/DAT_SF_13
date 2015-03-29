@@ -3,6 +3,7 @@
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/san-francisco) in San Francisco (3/9/15 - 5/20/15).
 
 **Instructor:** Rob Hall
+
 **EiRs:** Ankit Jain, Chetan Nandakumar, Matt Ghent
 
 Monday | Wednesday
