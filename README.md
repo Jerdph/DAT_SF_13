@@ -6,6 +6,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **EiRs:** Ankit Jain, Chetan Nandakumar, Matt Ghent
 
+### Course Schedule
+
 Week | Monday | Wednesday
 --- | --- | ---
  1 | 3/9: Introduction to Data Science | 3/11: Introduction to Python
@@ -20,10 +22,14 @@ Week | Monday | Wednesday
 10 | 5/11: Guest Speaker | 5/13: Guest Speaker - [Dr. Luca Pozzi](https://generalassemb.ly/instructors/dr-luca-pozzi/4825) (tenative)
 11 | **5/18:** Project Presentations Day 1 <br>**Project Milestone:** Presentation | **5/20:** Project Presentations Day 2 <br>**Project Milestone:** Presentation & Paper
 
-HW | Topics | Dataset(s) | Assigned | Due
+### Homework Schedule
+
+Please submit completed homework assignments by pushing them to your homework repo under your own userid and then telling us where to find your homework via the [homework submission form](http://goo.gl/forms/QBZBG4P3bm).
+
+HW | Topics | Dataset | Assigned | Due
 --- | --- | --- | --- | ---
 1 | Data exploration | titanic | 3/11 | 3/16
 2 | KNN & Cross Validation | iris | 3/18 | 3/25
 FP1 | Elevator Pitch |  | 3/23 | 4/1
-3 | Decision Tress | bank | 3/28 (opt) | TBD
+3 | Decision Trees | bank | 3/28 (opt) | TBD
 4 | Midterm |  | 4/8 | 4/15
