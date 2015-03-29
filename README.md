@@ -1,4 +1,4 @@
-## DAT_SF_13 Course Repository
+## DAT SF 13 Course Repository
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/san-francisco) in San Francisco (3/9/15 - 5/20/15).
 
