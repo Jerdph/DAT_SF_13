@@ -18,5 +18,4 @@ Week | Monday | Wednesday
  8 | 4/27: Support Vector Machines (tentative) | 4/29: Overview of Big Data Concepts (tentative)
  9 | 5/4: Guest Speaker | 5/6: Guest Speaker
 10 | 5/11: Final Project Working Session | 5/13: Guest Speaker - [Dr. Luca Pozzi](https://generalassemb.ly/instructors/dr-luca-pozzi/4825) (tenative)
-11 | **5/18:** Project Presentations Day 1 | **5/20:** Project Presentations Day 2
-Support Vector Machines
+11 | **5/18:** Project Presentations Day 1 <br>**Project Milestone:** Presentation | **5/20:** Project Presentations Day 2 <br>**Project Milestone:** Presentation and Paper
