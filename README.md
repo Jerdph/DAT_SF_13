@@ -12,7 +12,7 @@ Week | Monday | Wednesday
  2 | 3/16: Intro to Machine Learning with KNN | 3/18: Regression and Regularization
  3 | 3/23: Web APIs and Pandas | 3/25: Decision Trees Pt1
  4 | 3/30: Decision Trees Pt2 and Random Forests | 4/1: Clustering with K-Means <br>**Project Milestone:** [Elevator Pitch](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-1-final-project-elevator-pitch)
- 5 | 4/6: Logistic Regression Pt1 | 4/8: Logistic Regression Pt2
+ 5 | 4/6: Logistic Regression | 4/8: ROC Curves & Imbalanced Classes
  6 | 4/13: Databases and SQL | 4/15: Recommender Systems <br>**Project Milestone:** [Preliminary Data Exploration](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-15-preliminary-data-exploration-results-and-analysis-plan)
  7 | 4/20: Naive Bayes | 4/22: Natural Language Processing
  8 | 4/27: Support Vector Machines (tentative) <br>**Project Milestone:** [First Draft](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-26-first-draft-due) | 4/29: Overview of Big Data Concepts (tentative)
