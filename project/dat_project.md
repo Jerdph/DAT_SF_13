@@ -42,7 +42,7 @@ Your **paper** should cover the following:
 
 Your **presentation** should cover these components with less breadth and less depth. Focus on creating an engaging, clear, and informative presentation that tells the story of your project.
 
-You should create a GitHub repository for your project that contains the following:
+Create a GitHub repository for your project -- under your userid and separate from your homework repo -- that contains the following:
 
 * **Project paper:** any format (PDF, Markdown, etc.)
 * **Presentation slides:** any format (PDF, PowerPoint, Google Slides, etc.)
