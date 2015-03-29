@@ -15,7 +15,7 @@ Monday | Wednesday
 4/6: Logistic Regression Pt1 | 4/8: Logistic Regression Pt2
 4/13: Databases and SQL | 4/15: Naive Bayes
 4/20: Natural Language Processing | 4/22: Support Vector Machines
-4/27: Recommender Systems | 4/29: Overview of Big Data Concepts
+4/27: Recommender Systems | 4/29: Overview of Big Data Concepts (tentative)
 5/4: Guest Speaker | 5/6: Guest Speaker
-5/11: Guest Speaker | 5/13: Final Project Working Session
+5/11: Final Project Working Session | 5/13: Guest Speaker - [Dr. Luca Pozzi](https://generalassemb.ly/instructors/dr-luca-pozzi/4825) (tenative)
 **5/18:** Project Presentations Day 1 | **5/20:** Project Presentations Day 2
