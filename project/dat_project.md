@@ -67,7 +67,7 @@ The Final Project Elevator Pitch includes both a short (one paragraph) write-up 
 * Why you chose this project
 
 
-### April 15: Preliminary Data Exploration Results and Analysis Plan
+### April 20: Preliminary Data Exploration Results and Analysis Plan
 
 What data have you gathered, and how did you gather it? What steps have you taken to explore the data? Which areas of the data have you cleaned, and which areas still need cleaning? What insights have you gained from your exploration? Will you be able to answer your question with this data, or do you need to gather more data (or adjust your question)? How might you use modeling to answer your question?
 
