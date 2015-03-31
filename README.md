@@ -22,7 +22,7 @@ Week | Monday | Wednesday
 10 | 5/11: Guest Speaker | 5/13: Guest Speaker - [Dr. Luca Pozzi](https://generalassemb.ly/instructors/dr-luca-pozzi/4825) (tenative)
 11 | **5/18:** Project Presentations Day 1 <br>**Project Milestone:** Presentation | **5/20:** Project Presentations Day 2 <br>**Project Milestone:** Presentation & Paper
 
-_syllabus last updated: 3/28/2015_
+_syllabus last updated: 3/30/2015_
 
 ### Homework Schedule
 
