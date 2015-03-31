@@ -33,5 +33,5 @@ HW | Topics | Dataset | Assigned | Due
 1 | Data Exploration | titanic | 3/11 | 3/16
 2 | KNN & Cross Validation | iris | 3/18 | 3/25
 FP1 | Elevator Pitch |  | 3/23 | 4/1
-3 | Decision Trees | bank | 3/28 (as optional) | TBD
+3 | Decision Trees | bank | 3/30 (as mandatory) | 4/6
 4 | Midterm |  | 4/8 | 4/15
