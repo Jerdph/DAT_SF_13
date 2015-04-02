@@ -1,7 +1,7 @@
-# Lectures
+## Lectures
 
 
-## K-Means Clustering Examples
+### Session 8: K-Means Clustering Examples
 
 Here are the animations we saw in class for how K-Means clustering works:
 
