@@ -1,4 +1,4 @@
-## Lectures
+## Additional Lecture Notes
 
 
 ### Session 8: K-Means Clustering Examples
