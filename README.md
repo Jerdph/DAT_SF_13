@@ -22,7 +22,7 @@ Week | Monday | Wednesday
 10 | 5/11: Guest Speaker | 5/13: Guest Speaker - [Dr. Luca Pozzi](https://generalassemb.ly/instructors/dr-luca-pozzi/4825) (tenative)
 11 | **5/18:** Project Presentations Day 1 <br>**Project Milestone:** Presentation | **5/20:** Project Presentations Day 2 <br>**Project Milestone:** Presentation & Paper
 
-_syllabus last updated: 3/30/2015_
+_syllabus last updated: 4/5/2015_
 
 ### Homework Schedule
 
@@ -33,5 +33,5 @@ HW | Topics | Dataset | Assigned | Due
 1 | Data Exploration | titanic | 3/11 | 3/16
 2 | KNN & Cross Validation | iris | 3/18 | 3/25
 FP1 | Elevator Pitch |  | 3/23 | 4/1
-3 | Decision Trees | bank | 3/30 (as mandatory) | 4/6
+3 | Decision Trees | bank | 3/30 (as mandatory) | 4/8 (extended)
 4 | Midterm |  | 4/8 | 4/15
