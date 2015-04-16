@@ -17,6 +17,7 @@ Here are the animations we saw in class for how K-Means clustering works:
 * [Visualization of the Music Genome Project](http://www.music-map.com/)
 * [The People Inside Your Machine](http://www.npr.org/blogs/money/2015/01/30/382657657/episode-600-the-people-inside-your-machine) (23 minutes) is a Planet Money podcast episode about how Amazon Mechanical Turks can assist with recommendation engines (and machine learning in general).
 
+---
 
 ####Post Session 12 Homework:
 **The following preparation work is strongly recommended, in order to get the most out of class on Monday 4/20**
