@@ -67,17 +67,6 @@ The Final Project Elevator Pitch includes both a short (one paragraph) write-up 
 * Why you chose this project
 
 
-### April 20: Preliminary Data Exploration Results and Analysis Plan
-
-What data have you gathered, and how did you gather it? What steps have you taken to explore the data? Which areas of the data have you cleaned, and which areas still need cleaning? What insights have you gained from your exploration? Will you be able to answer your question with this data, or do you need to gather more data (or adjust your question)? How might you use modeling to answer your question?
-
-Example:
-* I've created visualizations and numeric summaries to explore how survivability differs by passenger characteristic, and it appears that gender and class have a large role in determining survivability.
-* I estimated missing values for age using the titles provided in the Name column.
-* I created features to represent "spouse on board" and "child on board" by further analyzing names.
-* Since I'm predicting a binary outcome, I plan to use a classification method such as logistic regression to make my predictions.
-
-
 ### April 26: First Draft Due
 
 Zip up all files relevant to your project, and email them to Chetan. Your peers and instructors will provide feedback, according to [these guidelines](peer_review_guidelines.md).
