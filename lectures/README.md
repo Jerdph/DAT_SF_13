@@ -30,6 +30,6 @@ Here are the animations we saw in class for how K-Means clustering works:
     * What did Paul say were some of the benefits of the statistical approach?
     * How good was his prediction of the "spam of the future"?
 * Below are the foundational topics upon which Monday's class will depend. Please review these materials before class:
-    * **Basics of probability:** These [introductory slides](https://docs.google.com/presentation/d/1cM2dVbJgTWMkHoVNmYlB9df6P2H8BrjaqAcZTaLe9dA/edit#slide=id.gfc3caad2_00) (from the [OpenIntro Statistics textbook](https://www.openintro.org/stat/textbook.php)) are quite good and include integrated quizzes. Pay specific attention to these terms: probability, sample space, mutually exclusive, independent.
-* Remember that the Midterm Homework 4 is due on Monday 4/20 by 6:00PM!
+    * **Basics of probability:** These [introductory slides](https://docs.google.com/presentation/d/1cM2dVbJgTWMkHoVNmYlB9df6P2H8BrjaqAcZTaLe9dA/edit#slide=id.gfc3caad2_00) (from the [OpenIntro Statistics textbook](https://www.openintro.org/stat/textbook.php?stat_book=os)) are quite good and include integrated quizzes. Pay specific attention to these terms: probability, sample space, mutually exclusive, independent.
+* **Remember that the Midterm Homework 4 is due on Monday 4/20 by 6:00PM!**
 * Also, you should be working on your project! **Your rough draft is due in less than two weeks!**
