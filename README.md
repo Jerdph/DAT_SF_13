@@ -38,4 +38,3 @@ FP1 | Elevator Pitch | N/A | 3/23 | 4/1
 FP2 | [First Draft](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-26-first-draft-due) of Final Project | N/A | 4/13 | 4/27
 FP3 | Peer Feedback on FP First Draft | N/A | 4/27 | 5/4
 
-test
