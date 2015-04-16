@@ -8,6 +8,7 @@ Here are the animations we saw in class for how K-Means clustering works:
 * [Visualizing K-Means](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/)
 * [Naftali Harris: Visualizing K-Means Clustering](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 
+---
 
 ### Session 12: Recommender Systems
 
@@ -19,7 +20,7 @@ Here are the animations we saw in class for how K-Means clustering works:
 
 ---
 
-####Post Session 12 Homework:
+####Session 13 Pre-work:
 **The following preparation work is strongly recommended, in order to get the most out of class on Monday 4/20**
 
 * Read Paul Graham's [A Plan for Spam](http://www.paulgraham.com/spam.html) and be prepared to **discuss it in class on Monday**. Here are some questions to think about while you read:
