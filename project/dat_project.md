@@ -67,9 +67,9 @@ The Final Project Elevator Pitch includes both a short (one paragraph) write-up 
 * Why you chose this project
 
 
-### April 26: First Draft Due
+### April 27: First Draft Due Before Class
 
-Zip up all files relevant to your project, and email them to Chetan. Your peers and instructors will provide feedback, according to [these guidelines](peer_review_guidelines.md).
+Your peers and instructors will provide feedback, according to [these guidelines](peer_review_guidelines.md).
 
 At a minimum, you should include:
 * Narrative of what you have done so far and what you are still planning to do, ideally in a format similar to the format of your final project paper
