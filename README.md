@@ -38,4 +38,20 @@ FP1 | Elevator Pitch | N/A | 3/23 | 4/1
 FP2 | [First Draft](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-26-first-draft-due) of Final Project | N/A | 4/13 | 4/27
 FP3 | Peer Feedback on FP First Draft | N/A | 4/27 | 5/4
 
+### Communication
 
+#### Office Hours
+
+instructor | times avail | by
+:----------|:-------------------|:--
+Ankit      | Wednesday, 6- 6:30 PM | in person before class, hangouts, slack
+Chetan	   | Monday, 6- 6:30 PM | in person before class, hangouts, slack
+Matt       | Thursday, 6 - 7 PM | in person (at GA in "the concourse"), hangouts, slack
+Rob        | Tuesday, all day   | slack or by appointment
+           | Thursday, all day  | slack or by appointment
+
+Please use email or Slack to schedule office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly.
+
+#### Slack
+
+You've all been invited to use Slack for chat during class and the day. Please consider this the primary way to contact other students. The TAs will be in Slack during class to handle questions. All instructors will be available on Slack during office hours (listed above).
