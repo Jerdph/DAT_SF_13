@@ -42,13 +42,13 @@ FP3 | Peer Feedback on FP First Draft | N/A | 4/27 | 5/4
 
 #### Office Hours
 
-instructor | times avail | by
+instructor | times available | method
 :----------|:-------------------|:--
-Ankit      | Wednesday, 6- 6:30 PM | in person before class, hangouts, slack
-Chetan	   | Monday, 6- 6:30 PM | in person before class, hangouts, slack
-Matt       | Thursday, 6 - 7 PM | in person (at GA in "the concourse"), hangouts, slack
-Rob        | Tuesday, all day   | slack or by appointment
-           | Thursday, all day  | slack or by appointment
+Ankit      | Wednesday, 6:00 - 6:30 PM | in person before class, hangouts, slack
+Chetan	   | Monday, 6:00 - 6:30 PM | in person before class, hangouts, slack
+Matt       | Thursday, 6:00 - 7:00 PM | in person (at GA in "the concourse"), hangouts, slack
+Rob        | Tuesday, all day   | slack or hangout by appointment
+           | Thursday, all day  | slack or hangout by appointment
 
 Please use email or Slack to schedule office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly.
 
