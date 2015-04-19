@@ -16,7 +16,7 @@ Week | Monday | Wednesday
  4 | 3/30: Decision Trees Lab & Random Forests | 4/1: Clustering with K-Means <br>**Project Milestone:** [Elevator Pitch](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-1-final-project-elevator-pitch)
  5 | 4/6: Logistic Regression | 4/8: ROC Curves, AUC, & Imbalanced Classes 
  6 | 4/13: Databases & SQL | 4/15: Recommender Systems 
- 7 | 4/20: Naive Bayes <br> **HW4 Due** | 4/22: Natural Language Processing with guest lecturer Kirill Kereyev
+ 7 | 4/20: Naive Bayes <br> **HW4 Due** | 4/22: Natural Language Processing with guest lecturer Kirill Kireyev
  8 | 4/27: Support Vector Machines <br>**Project Milestone:** [First Draft Due](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-26-first-draft-due) | 4/29: Dimensionality Reduction (tentative)
  9 | 5/4: Final Project Working Session <br>**Project Milestone:** [Peer Feedback Due](https://github.com/ga-students/DAT_SF_13/blob/master/project/peer_review_guidelines.md) | 5/6: Guest Speaker - [Francesco Mosconi, Chief Data officer at Spire](https://spire.io/) (confirmed)
 10 | 5/11: Guest Speaker and/or advanced topic (TBD)| 5/13: Guest Speaker - [Dr. Luca Pozzi](https://generalassemb.ly/instructors/dr-luca-pozzi/4825) (confirmed)
