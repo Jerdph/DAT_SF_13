@@ -19,10 +19,10 @@ Week | Monday | Wednesday
  7 | 4/20: Naive Bayes <br> **HW4 Due** | 4/22: Natural Language Processing with guest lecturer Kirill Kireyev
  8 | 4/27: Support Vector Machines <br>**Project Milestone:** [First Draft Due](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-26-first-draft-due) | 4/29: Dimensionality Reduction (tentative)
  9 | 5/4: Final Project Working Session <br>**Project Milestone:** [Peer Feedback Due](https://github.com/ga-students/DAT_SF_13/blob/master/project/peer_review_guidelines.md) | 5/6: Guest Speaker - [Francesco Mosconi, Chief Data officer at Spire](https://spire.io/) (confirmed)
-10 | 5/11: Guest Speaker and/or advanced topic (TBD)| 5/13: Guest Speaker - [Dr. Luca Pozzi](https://generalassemb.ly/instructors/dr-luca-pozzi/4825) (confirmed)
+10 | 5/11: Final Project Work Session and/or Advanced topic (TBD)| 5/13: Guest Speaker - [Dr. Luca Pozzi](https://generalassemb.ly/instructors/dr-luca-pozzi/4825) (confirmed)
 11 | **5/18:** Project Presentations Day 1 <br>**Project Milestone:** Presentation | **5/20:** Project Presentations Day 2 <br>**Project Milestone:** Presentation & Paper
 
-_syllabus last updated: 4/12/2015_
+_syllabus last updated: 4/19/2015_
 
 ### Homework Schedule
 
