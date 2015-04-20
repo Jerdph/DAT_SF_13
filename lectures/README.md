@@ -76,15 +76,57 @@
 
 ####Resources:
 * scikit-learn documentation: [Decision Trees](http://scikit-learn.org/stable/modules/tree.html)
+* Quora: [How do random forests work in layman's terms?](http://www.quora.com/How-do-random-forests-work-in-laymans-terms/answer/Edwin-Chen-1)
 
 ---
 
 ### Session 8: K-Means Clustering Examples
 
-Here are the animations we saw in class for how K-Means clustering works:
+* Clustering with K-Means ([slides](DAT13_lec08_Clustering.pdf))
+* K-Means Lab ([notebook](http://nbviewer.ipython.org/github/ga-students/DAT_SF_13/blob/master/labs/intro_to_kmeans.ipynb))
 
+####Resources:
+Here are the animations we saw in class for how K-Means clustering works:
 * [Visualizing K-Means](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/)
 * [Naftali Harris: Visualizing K-Means Clustering](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+* [Introduction to Data Mining](http://www-users.cs.umn.edu/~kumar/dmbook/index.php) has a nice [chapter on cluster analysis](http://www-users.cs.umn.edu/~kumar/dmbook/ch8.pdf).
+* The scikit-learn user guide has a nice [section on clustering](http://scikit-learn.org/stable/modules/clustering.html).
+
+---
+
+### Session 9: Logistic Regression
+
+* Logistic Regression ([slides](DAT13_lec09_Logistic_Regression.pdf))
+* Logistic Regression Lab / Solution ([notebook](http://nbviewer.ipython.org/github/ga-students/DAT_SF_13/blob/master/labs/DAT13-lab09-Solution.ipynb))
+
+####Resources:
+* For more on logistic regression, watch the [first three videos](https://www.youtube.com/playlist?list=PL5-da3qGB5IC4vaDba5ClatUmFppXLAhE) (30 minutes total) from Chapter 4 of An Introduction to Statistical Learning.
+* UCLA's IDRE has a handy table to help you remember the [relationship between probability, odds, and log-odds](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/odds_ratio.htm).
+* Better Explained has a very friendly introduction (with lots of examples) to the [intuition behind "e"](http://betterexplained.com/articles/an-intuitive-guide-to-exponential-functions-e/).
+* Here are some useful lecture notes on [interpreting logistic regression coefficients](http://www.unm.edu/~schrader/biostat/bio2/Spr06/lec11.pdf).
+
+---
+
+### Session 10: ROC Curves, AUC, & Imbalanced Classes
+
+* Imbalanced Classes & ROC ([slides](DAT13_lec10_Class_Imbalance_ROC.pdf))
+* Lab / Solution ([notebook](http://nbviewer.ipython.org/github/ga-students/DAT_SF_13/blob/master/labs/ROC%20curves%20and%20imbalanced%20classes.ipynb))
+
+####Resources:
+* scikit-learn has extensive documentation on [model evaluation](http://scikit-learn.org/stable/modules/model_evaluation.html).
+* Rahul Patwari has two excellent and highly accessible videos on [Sensitivity and Specificity](https://www.youtube.com/watch?v=U4_3fditnWg&list=PL41ckbAGB5S2PavLIXUETzAmi5reIod23) (9 minutes) and [ROC Curves](https://www.youtube.com/watch?v=21Igj5Pr6u4&list=PL41ckbAGB5S2PavLIXUETzAmi5reIod23) (12 minutes).
+
+---
+
+### Session 11: Databases & Structured Query Language (SQL)
+
+* Imbalanced Classes & ROC ([slides](DAT13_lec11_Databases_SQL.pdf))
+* Lab: SQLite ([notebook](http://nbviewer.ipython.org/github/ga-students/DAT_SF_13/blob/master/labs/SQL_sqlite_pandas_update.ipynb))
+
+####Resources:
+* [What Every Data Scientist Needs to Know about SQL](http://joshualande.com/data-science-sql/)
+* [Brandon's SQL Bootcamp](https://github.com/brandonmburroughs/sql_bootcamp)
+* SQL tutorials from [SQLZOO](http://sqlzoo.net/wiki/Main_Page) and [Mode Analytics](http://sqlschool.modeanalytics.com/)
 
 ---
 
