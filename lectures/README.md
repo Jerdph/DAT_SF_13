@@ -13,7 +13,7 @@
 ### Session 2: Introduction to Python
 
 * Intro to Python ([slides](DAT13_lec02_Intro_Python.pdf))
-* Intro to Version Control ([slides](DAT13_lec02a_Version_Control.pdf))
+* Intro to Version Control ([slides](DAT13_lec02a-Version_Control.pdf))
 
 ####Resources:
 * Read the first two chapters of [Pro Git](http://git-scm.com/book/en/v2) to gain a much deeper understanding of version control and basic Git commands.
