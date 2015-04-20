@@ -47,9 +47,35 @@
 
 ####Resources:
 * Here is a great [Pandas Cheat Sheet](http://nbviewer.ipython.org/github/pybokeh/ipython_notebooks/blob/master/pandas/PandasCheatSheet.ipynb)
-* To learn more Pandas, review this [three-part tutorial](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), or review these three excellent (but extremely long) notebooks on Pandas: [introduction](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_5-Introduction-to-Pandas.ipynb), [data wrangling](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_6-Data-Wrangling-with-Pandas.ipynb), and [plotting](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_7-Plotting-with-Pandas.ipynb).
+	* To learn more Pandas, review this [three-part tutorial](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/), or review these three excellent (but extremely long) notebooks on Pandas: [introduction](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_5-Introduction-to-Pandas.ipynb), [data wrangling](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_6-Data-Wrangling-with-Pandas.ipynb), and [plotting](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/Bios8366/master/notebooks/Section2_7-Plotting-with-Pandas.ipynb).
 * For more on Pandas plotting, read the [visualization page](http://pandas.pydata.org/pandas-docs/stable/visualization.html) from the official Pandas documentation.
 * To learn how to customize your plots further, browse through this [notebook on matplotlib](http://nbviewer.ipython.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_4-Matplotlib.ipynb).
+
+---
+
+### Session 6: Decision Trees for Classification & Regression
+
+* Decision Trees ([slides](DAT13_lec06_Decision%20Trees.pdf))
+* Decision Trees Lab 1 ([notebook](../labs/Decision%20Tree%20Lab))
+
+####Resources:
+* scikit-learn documentation: [Decision Trees](http://scikit-learn.org/stable/modules/tree.html)
+
+**Installing Graphviz (optional):**
+* Mac:
+    * [Download and install PKG file](http://www.graphviz.org/Download_macos.php)
+* Windows:
+    * [Download and install MSI file](http://www.graphviz.org/Download_windows.php)
+    * Add it to your Path: Go to Control Panel, System, Advanced System Settings, Environment Variables. Under system variables, edit "Path" to include the path to the "bin" folder, such as: `C:\Program Files (x86)\Graphviz2.38\bin`
+
+---
+
+### Session 7: Decision Trees Part 2 & Random Forests
+
+* Decision Trees Lab 2 ([notebook](../labs/Decision%20Tree%20Lab))
+
+####Resources:
+* scikit-learn documentation: [Decision Trees](http://scikit-learn.org/stable/modules/tree.html)
 
 ---
 
