@@ -1,6 +1,14 @@
 ## Additional Lecture Notes
 
 
+### Session 5: Pandas
+
+Here is a great Pandas resource:
+
+* [Pandas Cheat Sheet](http://nbviewer.ipython.org/github/pybokeh/ipython_notebooks/blob/master/pandas/PandasCheatSheet.ipynb)
+
+---
+
 ### Session 8: K-Means Clustering Examples
 
 Here are the animations we saw in class for how K-Means clustering works:
