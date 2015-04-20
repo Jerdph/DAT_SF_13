@@ -132,6 +132,9 @@ Here are the animations we saw in class for how K-Means clustering works:
 
 ### Session 12: Recommender Systems
 
+* Recommender Systems ([slides](DAT13_lec12_Rec_Sys.pdf))
+* Python-recsys Lab ([notebook](../labs/Rec_sys_lab))
+
 ####Resources:
 * [The Netflix Prize](http://techblog.netflix.com/2012/04/netflix-recommendations-beyond-5-stars.html)
 * [Why Netflix never implemented the winning solution](https://www.techdirt.com/blog/innovation/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml)
