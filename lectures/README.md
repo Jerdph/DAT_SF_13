@@ -151,7 +151,7 @@ Here are the animations we saw in class for how K-Means clustering works:
     * Before he tried the "statistical approach" to spam filtering, what was his approach?
     * How exactly does his statistical filtering system work?
     * What did Paul say were some of the benefits of the statistical approach?
-    * How good was his prediction of the "spam of the future" from toward the end of his essay [Will Filters Kill Spam](http://paulgraham.com/wfks.html)?
+    * How good was his prediction of the "spam of the future"?
 * Monday's class will depend heavily upon fundamental concepts of probability. Please be sure to review these materials before class:
     * **Basics of probability:** These [introductory slides](https://docs.google.com/presentation/d/1cM2dVbJgTWMkHoVNmYlB9df6P2H8BrjaqAcZTaLe9dA/edit#slide=id.gfc3caad2_00) (from the [OpenIntro Statistics textbook](https://www.openintro.org/stat/textbook.php?stat_book=os)) are quite good and include integrated quizzes. Pay specific attention to these terms: probability, sample space, mutually exclusive, independent.
     * **Conditional Probability:** This [5-minute video on conditional probability](https://www.youtube.com/watch?v=Zxm4Xxvzohk), or these [slides on conditional probability](https://docs.google.com/presentation/d/1psUIyig6OxHQngGEHr3TMkCvhdLInnKnclQoNUr4G4U/edit#slide=id.gfc69f484_00) will introduce the concept of conditional probability.
