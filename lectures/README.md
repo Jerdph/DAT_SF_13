@@ -1,6 +1,26 @@
 ## Additional Lecture Notes
 
 
+### Session 1: Introduction to Data Science
+
+* Data science overview ([slides](lectures/DAT13_lec01.pdf))
+
+####Resources:
+* Read [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf) for a useful look at the different types of data scientists.
+
+---
+
+### Session 2: Introduction to Python
+
+* Intro to Python ([slides](lectures/DAT13_lec02_Intro_Python.pdf))
+* Intro to Version Control ([slides](lectures/DAT13_lec02a_Version_Control.pdf))
+
+####Resources:
+* Read the first two chapters of [Pro Git](http://git-scm.com/book/en/v2) to gain a much deeper understanding of version control and basic Git commands.
+* If you need more practice with Python, review the "1. Python Overview" section of [A Crash Course in Python](http://nbviewer.ipython.org/gist/rpmuller/5920182), work through some of [Codecademy's Python course](http://www.codecademy.com/en/tracks/python), or work through [Google's Python Class](https://developers.google.com/edu/python/) and its exercises.
+
+---
+
 ### Session 5: Pandas
 
 Here is a great Pandas resource:
