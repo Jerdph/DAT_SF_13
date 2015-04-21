@@ -158,3 +158,21 @@ Here are the animations we saw in class for how K-Means clustering works:
     * scikit-learn documentation: [CountVectorizer](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html), [Naive Bayes](http://scikit-learn.org/stable/modules/naive_bayes.html)
 * **Remember that the Midterm Homework 4 is due on Monday 4/20 by 6:00PM!**
 * Also, you should be working on your project! **Your [first draft](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-26-first-draft-due) is due on April 26!**
+
+###Session 13: Naive Bayes
+
+* Naive Bayes ([slides](DAT13_lec13_Naive_Bayes.pdf))
+* Naive Bayes Classification Lab ([notebook](http://nbviewer.ipython.org/github/ga-students/DAT_SF_13/blob/master/labs/DAT-SF-13%20Naive%20Bayes%20Lab.ipynb))
+
+####Resources:
+* Lecture supplement: Probability & Conditional Probability ([slides](DAT13_lec13_Probability_supplement.pdf))
+* For more details on Naive Bayes classification, Wikipedia has two useful articles ([Naive Bayes classifier](http://en.wikipedia.org/wiki/Naive_Bayes_classifier) and [Naive Bayes spam filtering](http://en.wikipedia.org/wiki/Naive_Bayes_spam_filtering)), and Cross Validated has an excellent [Q&A](http://stats.stackexchange.com/questions/21822/understanding-naive-bayes).
+* If you enjoyed Paul Graham's article, you can read [his follow-up article](http://www.paulgraham.com/better.html) on how he improved his spam filter and this [related paper](http://www.merl.com/publications/docs/TR2004-091.pdf) about state-of-the-art spam filtering in 2004.
+* This [blog post](http://lesswrong.com/lw/774/a_history_of_bayes_theorem/) gives a great history of Bayes Theorem.
+* [Here](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) is a very detailed comparison of Naive Bayes Classification with Logistic Regression. Warning: it is heavy on mathematics and notation.
+* If you were intrigued by the sidebar regarding the frequentist vs. Bayesian approaches to statistical inference, pages number 40 - 44 of [this PDF](http://edepot.wur.nl/134085) may interest you.
+
+---
+
+
+
