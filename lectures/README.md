@@ -177,7 +177,7 @@ Here are the animations we saw in class for how K-Means clustering works:
 
 ###Session 14: Natural Language Processing
 
-* slides forthcoming once I get them from Kirill
+* Guest Speaker: Kirill Kireyev with an Introduction to Natural Language Processing ([slides](https://github.com/ga-students/DAT_SF_13/blob/master/lectures/DAT13_lec14_NLP_guest_speaker.pdf))
 * NLP Lab on the vector space model and TF-IDF ([notebook](http://nbviewer.ipython.org/github/ga-students/DAT_SF_13/blob/master/labs/NLP-Lab/NLP-Lab-VSM-Solution.ipynb))
 
 ####Resources and a note on tf-idf:
