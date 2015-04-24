@@ -193,7 +193,6 @@ If you are interested in diving deeper, I highly recommend reading [this answer]
 
 ####Resources
 * [NLP Extras](https://github.com/ga-students/DAT_SF_13/tree/master/labs/NLP-Extras): Document Classification Example ([notebook](http://nbviewer.ipython.org/github/ga-students/DAT_SF_13/blob/master/labs/NLP-Extras/NLP-Extra-Doc-Classification-Bayes.ipynb))
-
 * [Natural Language Processing with Python](http://www.nltk.org/book/): free online book to go in-depth with NLTK
 * [NLP online course](https://www.coursera.org/course/nlp): no sessions are available, but [video lectures](https://class.coursera.org/nlp/lecture) and [slides](http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) are still accessible
 * [Stanford CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml): suite of tools if you want to get serious about NLP
