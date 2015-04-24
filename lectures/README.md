@@ -175,5 +175,18 @@ Here are the animations we saw in class for how K-Means clustering works:
 
 ---
 
+###Session 14: Natural Language Processing
 
+* slides forthcoming once I get them from Kirill
+* NLP Lab on the vector space model and TF-IDF [notebook](http://nbviewer.ipython.org/github/ga-students/DAT_SF_13/blob/master/labs/NLP-Lab/NLP-Lab-VSM-Solution.ipynb)
 
+####Resources and a note on tf-idf:
+
+There are multiple different versions of IDF calculation used in practice:
+
+1. The purist formula is (number of docs in corpus) / (number of docs in which term appears). However, that can lead to division by zero.
+2. The standard way to avoid that issue is to add 1 to the denominator, we we saw during class. However, adding 1 to the denominator can yield negative IDF values for terms that occur in every doc in the corpus. Negative IDF values are also "wrong".
+3. Lucene, the open source search engine that powers Elasticsearch, adds 1 to the denominator and then handles negative values by adding 1 to the result of log ( n_docs / (1 + df)), thus ensuring the IDF value is always positive [lucene doc](https://lucene.apache.org/core/4_0_0/core/org/apache/lucene/search/similarities/TFIDFSimilarity.html)
+4. scikit-learn takes yet another approach. The Tfidf functions in scikit-learn use idf = log ( n_samples / (1+df)), just as in our lab, _and_ "smooth" the n_samples and df values by adding 1 to each. This also avoids division by zero. The posted lab solution uses (4) and gets the same values as scikit-learn.
+
+If you are interested in diving deeper, I highly recommend reading [this answer](http://stackoverflow.com/questions/18687879/error-in-computing-text-similarity-using-scikit-learn/18692538#18692538) and [this answer](http://stackoverflow.com/questions/12118720/python-tf-idf-cosine-to-find-document-similarity/12128777#12128777) from StackOverflow.
