@@ -180,7 +180,7 @@ Here are the animations we saw in class for how K-Means clustering works:
 * Guest Speaker: Kirill Kireyev with an Introduction to Natural Language Processing ([slides](https://github.com/ga-students/DAT_SF_13/blob/master/lectures/DAT13_lec14_NLP_guest_speaker.pdf))
 * NLP Lab on the vector space model and TF-IDF ([notebook](http://nbviewer.ipython.org/github/ga-students/DAT_SF_13/blob/master/labs/NLP-Lab/NLP-Lab-VSM-Solution.ipynb))
 
-####Resources and a note on tf-idf:
+####A note on tf-idf
 
 There are multiple different versions of IDF calculation used in practice:
 
@@ -190,3 +190,19 @@ There are multiple different versions of IDF calculation used in practice:
 4. scikit-learn takes yet another approach. The Tfidf functions in [scikit-learn](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) use idf = log ( n_samples / (1+df)), just as in our lab, _and_ "smooth" the n_samples and df values by adding 1 to each. This also avoids division by zero. The posted lab solution uses (4) and gets the same values as scikit-learn.
 
 If you are interested in diving deeper, I highly recommend reading [this answer](http://stackoverflow.com/questions/18687879/error-in-computing-text-similarity-using-scikit-learn/18692538#18692538) and [this answer](http://stackoverflow.com/questions/12118720/python-tf-idf-cosine-to-find-document-similarity/12128777#12128777) from StackOverflow.
+
+####Resources
+* [Natural Language Processing with Python](http://www.nltk.org/book/): free online book to go in-depth with NLTK
+* [NLP online course](https://www.coursera.org/course/nlp): no sessions are available, but [video lectures](https://class.coursera.org/nlp/lecture) and [slides](http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) are still accessible
+* [Stanford CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml): suite of tools if you want to get serious about NLP
+* Getting started with regex: [Python introductory lesson](https://developers.google.com/edu/python/regular-expressions) and [reference guide](https://github.com/justmarkham/DAT3/blob/master/code/99_regex_reference.py), [real-time regex tester](https://regex101.com/#python), [in-depth tutorials](http://www.rexegg.com/)
+* [SpaCy](http://honnibal.github.io/spaCy/): a new NLP package
+
+---
+
+###Session 15: Support Vector Machines (SVMs)
+
+* Chetan will be leading this session
+
+####Resources
+
