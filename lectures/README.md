@@ -203,16 +203,10 @@ If you are interested in diving deeper, I highly recommend reading [this answer]
 
 ###Session 15: Support Vector Machines (SVMs)
 
-* Pre-work: For students who enjoy digging into the underlying mathematical concepts, [this reading](http://www.cs.colostate.edu/~asa/pdfs/howto.pdf) details the math behind support vector machines. Some of the examples in the lecture slides are taken from this reading.
+* **Pre-work:** For students who enjoy digging into the underlying mathematical concepts, [this reading](http://www.cs.colostate.edu/~asa/pdfs/howto.pdf) details the math behind support vector machines. Some of the examples in the lecture slides are taken from this reading.
 * Chetan will be leading this session, as Rob will be out of town on business travel.
 
 ####Resources
 
----
 
-###Session 16: Dimensionality Reduction
-
-* slides
-
-####Resources
 
