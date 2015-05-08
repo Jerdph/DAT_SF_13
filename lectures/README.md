@@ -206,7 +206,30 @@ If you are interested in diving deeper, I highly recommend reading [this answer]
 * **Pre-work:** For students who enjoy digging into the underlying mathematical concepts, [this reading](http://www.cs.colostate.edu/~asa/pdfs/howto.pdf) details the math behind support vector machines. Some of the examples in the lecture slides are taken from this reading.
 * Chetan will be leading this session, as Rob will be out of town on business travel.
 
+---
+
+###Session 16: Dimensionality Reduction (PCA & SVD)
+
+* Dimensionality Reduction ([slides](DAT13_lec16_Dimensionality_Reduction.pdf))
+* Principal Components Analysis Lab ([notebook](https://github.com/ga-students/DAT_SF_13/blob/master/labs/PrincipalComponentAnalysis.ipynb))
+
 ####Resources
 
+* [This tutorial](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) on Principal Components Analysis (PCA) includes good refreshers on covariance and linear algebra
+
+---
+
+###Session 17: Peer Feedback and Final Project Work Session
+
+---
+
+###Session 18: Guest Lecture on Time Series by Francesco Mosconi
+
+* Time Series ([slides](DAT13_lec18_TimeSeries_Francesco.pdf))
+* Time Series Visualization ([notebook](https://github.com/ga-students/DAT_SF_13/blob/master/labs/time_series_FM/Time%20Series%20Plots.ipynb))
+
+####Resources
+
+* There are many links to resources for going deeper into time series in Francesco's slides.
 
 
