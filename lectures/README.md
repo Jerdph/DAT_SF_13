@@ -216,6 +216,7 @@ If you are interested in diving deeper, I highly recommend reading [this answer]
 ####Resources
 
 * [This tutorial](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) on Principal Components Analysis (PCA) includes good refreshers on covariance and linear algebra
+* To go deeper on Singular Value Decomposition, read Kirk Baker's excellent [tutorial](https://www.ling.ohio-state.edu/~kbaker/pubs/Singular_Value_Decomposition_Tutorial.pdf)
 
 ---
 
