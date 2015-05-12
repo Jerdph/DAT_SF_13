@@ -238,9 +238,9 @@ If you are interested in diving deeper, I highly recommend reading [this answer]
 ###Session 19: Case Interview Exercise & Final Project Work
 
 * The exercise materials are on github in the [exercise folder](https://github.com/ga-students/DAT_SF_13/tree/master/exercise):
-   * ([exercise slides](https://github.com/ga-students/DAT_SF_13/blob/master/exercise/DAT13_exercise.pdf)
-   * ([hints](https://github.com/ga-students/DAT_SF_13/blob/master/exercise/case_interview_hints.pdf))
-   * ([solution notebook](https://github.com/ga-students/DAT_SF_13/blob/master/exercise/CaseInterview_Solution.ipynb))
+   * [exercise slides](https://github.com/ga-students/DAT_SF_13/blob/master/exercise/DAT13_exercise.pdf)
+   * [hints PDF](https://github.com/ga-students/DAT_SF_13/blob/master/exercise/case_interview_hints.pdf)
+   * [solution notebook](https://github.com/ga-students/DAT_SF_13/blob/master/exercise/CaseInterview_Solution.ipynb)
 
 ---
 
