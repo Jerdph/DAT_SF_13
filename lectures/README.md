@@ -233,4 +233,19 @@ If you are interested in diving deeper, I highly recommend reading [this answer]
 
 * There are many links to resources for going deeper into time series in Francesco's slides.
 
+---
+
+###Session 19: Case Interview Exercise & Final Project Work
+
+* The exercise materials are on github in the [exercise folder](https://github.com/ga-students/DAT_SF_13/tree/master/exercise):
+   * ([exercise slides](https://github.com/ga-students/DAT_SF_13/blob/master/exercise/DAT13_exercise.pdf)
+   * ([hints](https://github.com/ga-students/DAT_SF_13/blob/master/exercise/case_interview_hints.pdf))
+   * ([solution notebook](https://github.com/ga-students/DAT_SF_13/blob/master/exercise/CaseInterview_Solution.ipynb))
+
+---
+
+###Session 20: Guest Speaker: Dr. Luca Pozzi, One final project presentation, & Brief Course Summary
+
+
+
 
