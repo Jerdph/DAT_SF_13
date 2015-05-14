@@ -246,6 +246,9 @@ If you are interested in diving deeper, I highly recommend reading [this answer]
 
 ###Session 20: Guest Speaker: Dr. Luca Pozzi, One final project presentation, & Brief Course Summary
 
+* Guest Speaker ([slides](DAT13_lec20_LucaPozzi_TimeSeries.pdf))
+* Where to Go Next ([slides](DAT13_lec20_where_to_go_next.pdf))
 
+Remember to sign up for final project presentation timeslot on this [Google sheet](https://docs.google.com/spreadsheets/d/1wvJdQlWeILDVXhCJgEFV7zwMPSBqi3nNM3dB3eZ4XhU/edit?usp=sharing).
 
 
