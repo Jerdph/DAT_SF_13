@@ -251,4 +251,13 @@ If you are interested in diving deeper, I highly recommend reading [this answer]
 
 Remember to sign up for final project presentation timeslot on this [Google sheet](https://docs.google.com/spreadsheets/d/1wvJdQlWeILDVXhCJgEFV7zwMPSBqi3nNM3dB3eZ4XhU/edit?usp=sharing).
 
+####Resources
+
+* O'Reilly Book: [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
+* O'Reilly Book: [Data Science for Business](http://shop.oreilly.com/product/0636920028918.do)
+* O'Reilly Book: [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+* O'Reilly Book: [Data Analysis with Open Source Tools](http://shop.oreilly.com/product/9780596802363.do)
+* O'Reilly "Data Science Starter Kit": [Data Science Starter Kit](http://shop.oreilly.com/category/get/data-science-kit.do)
+   * Note that the "Data Science Starter Kit" includes books on R, not just Python
+
 
