@@ -14,15 +14,15 @@ Week | Monday | Wednesday
  2 | 3/16: Intro to Machine Learning with KNN | 3/18: Regression & Regularization
  3 | 3/23: Web APIs & Pandas | 3/25: Decision Trees for Classification & Regression
  4 | 3/30: Decision Trees Lab & Random Forests | 4/1: Clustering with K-Means <br>**Project Milestone:** [Elevator Pitch](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-1-final-project-elevator-pitch)
- 5 | 4/6: Logistic Regression | 4/8: ROC Curves & Imbalanced Classes 
- 6 | 4/13: Databases & SQL | 4/15: Recommender Systems <br> **Midterm HW Due**
- 7 | 4/20: Naive Bayes <br>**Project Milestone:** [Preliminary Data Exploration](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-15-preliminary-data-exploration-results-and-analysis-plan) | 4/22: Natural Language Processing
- 8 | 4/27: Support Vector Machines (tentative) <br>**Project Milestone:** [First Draft](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-26-first-draft-due) | 4/29: Overview of Big Data Concepts (tentative)
- 9 | 5/4: Final Project Working Session <br>**Project Milestone:** [Peer Feedback Due](https://github.com/ga-students/DAT_SF_13/blob/master/project/peer_review_guidelines.md) | 5/6: Guest Speaker
-10 | 5/11: Guest Speaker | 5/13: Guest Speaker - [Dr. Luca Pozzi](https://generalassemb.ly/instructors/dr-luca-pozzi/4825) (tenative)
+ 5 | 4/6: Logistic Regression | 4/8: ROC Curves, AUC, & Imbalanced Classes 
+ 6 | 4/13: Databases & SQL | 4/15: Recommender Systems 
+ 7 | 4/20: Naive Bayes <br> **HW4 Due** | 4/22: Natural Language Processing with guest lecturer Kirill Kireyev
+ 8 | 4/27: Support Vector Machines <br>**Project Milestone:** [First Draft Due](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-26-first-draft-due) | 4/29: Dimensionality Reduction
+ 9 | 5/4: Final Project Work Session & Peer Feedback <br>**Project Milestone:** [Peer Feedback Due](https://github.com/ga-students/DAT_SF_13/blob/master/project/peer_review_guidelines.md) | 5/6: Guest Speaker - [Francesco Mosconi, Chief Data officer at Spire](https://spire.io/) (confirmed)
+10 | 5/11: Case Interview Exercise | 5/13: Guest Speaker - [Dr. Luca Pozzi](https://generalassemb.ly/instructors/dr-luca-pozzi/4825) (confirmed)
 11 | **5/18:** Project Presentations Day 1 <br>**Project Milestone:** Presentation | **5/20:** Project Presentations Day 2 <br>**Project Milestone:** Presentation & Paper
 
-_syllabus last updated: 3/30/2015_
+_syllabus last updated: 4/19/2015_
 
 ### Homework Schedule
 
@@ -32,6 +32,25 @@ HW | Topics | Dataset | Assigned | Due
 --- | --- | --- | --- | ---
 1 | Data Exploration | titanic | 3/11 | 3/16
 2 | KNN & Cross Validation | iris | 3/18 | 3/25
-FP1 | Elevator Pitch |  | 3/23 | 4/1
-3 | Decision Trees | bank | 3/30 (as mandatory) | 4/6
-4 | Midterm |  | 4/8 | 4/15
+FP1 | Elevator Pitch | N/A | 3/23 | 4/1
+3 | Decision Trees | bank | 3/30 (as mandatory) | 4/8 (extended)
+4 | Logistic Regression, ROC/AUC, & Imbalanced Classes | spam | 4/13 | 4/20
+FP2 | [First Draft](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-26-first-draft-due) of Final Project | yours | 4/13 | 4/27
+FP3 | [Peer Feedback](https://github.com/ga-students/DAT_SF_13/blob/master/project/peer_review_guidelines.md) on FP First Draft | yours | 4/27 | 5/4
+
+### Communication
+
+#### Office Hours
+
+instructor | times available | method
+:----------|:-------------------|:--
+Ankit      | Wednesday, 6:00 - 6:30 PM | in person before class, slack, hangouts by appointment
+Chetan	   | Monday, 6:00 - 6:30 PM | in person before class, hangouts by appointment
+Matt       | Thursday, 6:00 - 7:00 PM | in person (at GA in "the concourse"), slack, hangouts by appointment
+Rob        | Tues & Thurs, all day   | slack (quickest response) or hangouts by appointment
+
+Please use email or Slack to schedule office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly.
+
+#### Slack
+
+You've all been invited to use Slack for chat during class and the day. Please consider this the primary way to contact other students. The TAs will be in Slack during class to handle questions. All instructors will be available on Slack during office hours (listed above).
